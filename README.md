@@ -1,4 +1,4 @@
-# HyenaDNA: Training and Inference Example
+Rubing zhang: HyenaDNA
 
 Welcome! Thank you for checking out **HyenaDNA**. This tutorial walks you through setting up a **HyenaDNA** model for:
 
